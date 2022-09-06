@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-08-30T10:50:07 CST" name="Default suite" finished-at="2022-08-30T10:50:12 CST" duration-ms="5445">
+  <suite started-at="2022-09-06T17:28:40 CST" name="Suite" finished-at="2022-09-06T17:28:45 CST" duration-ms="5282">
     <groups>
     </groups>
-    <test started-at="2022-08-30T10:50:07 CST" name="Default test" finished-at="2022-08-30T10:50:12 CST" duration-ms="5445">
-      <class name="mail.Test_mail_02Test">
-        <test-method signature="mainTest()[pri:0, instance:mail.Test_mail_02Test@46fa7c39]" started-at="2022-08-30T10:50:07 CST" name="mainTest" finished-at="2022-08-30T10:50:12 CST" duration-ms="5423" status="PASS">
+    <test started-at="2022-09-06T17:28:40 CST" name="Test" finished-at="2022-09-06T17:28:45 CST" duration-ms="5282">
+      <class name="mail.Test_Mail">
+        <test-method signature="mainTest()[pri:0, instance:mail.Test_Mail@46fa7c39]" started-at="2022-09-06T17:28:40 CST" name="mainTest" finished-at="2022-09-06T17:28:45 CST" duration-ms="5259" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- mainTest -->
-      </class> <!-- mail.Test_mail_02Test -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+      </class> <!-- mail.Test_Mail -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
